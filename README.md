@@ -10,6 +10,9 @@ Carboxylic acids derived from biomass can be upgraded via heterogeneous catalyti
 
 ## Content
 - Raw data for ground state DFT calculations in JSON format.
+- Jupyter Notebooks for:
+  - Ab initio phase diagrams.
+- Post-processed vibrational frequencies, calculated within the harmonic oscillator approximation, in TXT format.
 
 ## Contribution Statement
 Contributions to this project were determined using CRediT (Contributor Roles Taxonomy). Here is the contribution statement:
